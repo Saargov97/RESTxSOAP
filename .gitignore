@@ -1,2 +1,4 @@
-/fincontrol/build/
-/fincontrol2/nbproject/private/
+./build/
+./nbproject/private/
+node_modules
+*.sqlite
